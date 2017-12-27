@@ -25272,7 +25272,7 @@ var Verifier = require('./verifier');
 var Package = require('../package.json');
 var Errors = require('./errors');
 
-var BASE_URL = 'http://localhost:3232/bws/api';
+var BASE_URL = 'http://192.168.101.106:3232/bws/api';
 
 /**
  * @desc ClientAPI constructor.
